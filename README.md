@@ -4,7 +4,7 @@
 
 This project is an interactive web application built with **Gradio** that uses an **LSTM (Long Short-Term Memory)** model to predict future stock prices. It fetches real-time stock data using **Yahoo Finance**, preprocesses the data, trains an LSTM model, and predicts the **next trading day's closing price**, all with **live training progress visualization** in the UI.
 
-![Gradio Screenshot](screenshot.png) <!-- Replace this with actual screenshot if available -->
+![Gradio Screenshot](screenshot.jpg)
 
 ---
 
